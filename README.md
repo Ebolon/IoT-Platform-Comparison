@@ -30,6 +30,7 @@ Here is a random list of different Internet of Things (IoT) Platforms and relate
 * [SensorCloud](http://www.sensorcloud.com/)
 * [Telit IoT Portal](http://www.telit.com/deviceWISE-IoT-platform/)
 * [tempoIQ](https://www.tempoiq.com/)
+* [thinger.io](https://thinger.io/)
 * [ThingSpeak](https://thingspeak.com/)
 * [thingworx](https://www.thingworx.com/)
 * [ubidots](https://ubidots.com/)
