@@ -9,6 +9,7 @@ Here is a random list of different Internet of Things (IoT) Platforms and relate
 * [OpenRemote](http://www.openremote.com/)
 * [IoTivity](https://www.iotivity.org/)
 * [OpenMTC](http://www.open-mtc.org/)
+* [Lelylan](http://www.lelylan.com/)
 
 
 ## IoT Platforms
