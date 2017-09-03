@@ -13,6 +13,7 @@ Here is a random list of different Internet of Things (IoT) Platforms and relate
 
 
 ## IoT Platforms
+* [ARTIK Cloud](https://artik.cloud/)
 * [Ayla IoT Platform](https://www.aylanetworks.com/)
 * [Bosch IoT Suite](https://www.bosch-iot-suite.com/)
 * [Carriots](https://www.carriots.com/)
@@ -22,7 +23,7 @@ Here is a random list of different Internet of Things (IoT) Platforms and relate
 * [GroveStreams](https://grovestreams.com/)
 * [impCloud](https://electricimp.com/platform/cloud/)
 * [Losant](https://www.losant.com/)
-* [myDevices](http://mydevices.com/)
+* [myDevices (Cayenne)](http://mydevices.com/)
 * [relayr.](https://relayr.io)
 * [Particle](https://www.particle.io/)
 * [GE Predix](https://www.ge.com/digital/predix)
@@ -41,3 +42,5 @@ Here is a random list of different Internet of Things (IoT) Platforms and relate
 ## Other
 * [Savi](http://www.savi.com/)
 * [Objectivity](http://www.objectivity.com/)
+* [Temboo](https://temboo.com/)
+* [Wyliodrin](https://www.wyliodrin.com/)
