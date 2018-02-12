@@ -21,6 +21,7 @@ Here is a random list of different Internet of Things (IoT) Platforms and relate
 * [Cumulocity](https://www.cumulocity.com/)
 * [Evrythng](https://evrythng.com/)
 * [GroveStreams](https://grovestreams.com/)
+* [helium](https://www.helium.com/)
 * [impCloud](https://electricimp.com/platform/cloud/)
 * [Losant](https://www.losant.com/)
 * [myDevices (Cayenne)](http://mydevices.com/)
