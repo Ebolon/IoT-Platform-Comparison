@@ -36,6 +36,7 @@ Here is a random list of different Internet of Things (IoT) Platforms and relate
 * [ThingSpeak](https://thingspeak.com/)
 * [thingworx](https://www.thingworx.com/)
 * [ubidots](https://ubidots.com/)
+* [waylay.io](https://www.waylay.io/)
 * [WebNMS](https://www.webnms.com/)
 * [Xively IoT Platform](https://www.xively.com/)
 * [Zatar](http://www.zatar.com/)
