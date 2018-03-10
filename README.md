@@ -18,6 +18,7 @@ Here is a random list of different Internet of Things (IoT) Platforms and relate
 * [Bosch IoT Suite](https://www.bosch-iot-suite.com/)
 * [Carriots](https://www.carriots.com/)
 * [Cisco Jasper Control Center](https://www.jasper.com/control-center-for-iot)
+* [ClearBlade](https://www.clearblade.com)
 * [Cumulocity](https://www.cumulocity.com/)
 * [Evrythng](https://evrythng.com/)
 * [GroveStreams](https://grovestreams.com/)
