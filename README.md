@@ -40,6 +40,7 @@ Here is a random list of different Internet of Things (IoT) Platforms and relate
 * [ubidots](https://ubidots.com/)
 * [waylay.io](https://www.waylay.io/)
 * [WebNMS](https://www.webnms.com/)
+* [Wia Technologies](https://www.wia.io/)
 * [Xively IoT Platform](https://www.xively.com/)
 * [Zatar](http://www.zatar.com/)
 
