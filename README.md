@@ -14,6 +14,8 @@ Here is a random list of different Internet of Things (IoT) Platforms and relate
 
 ## IoT Platforms
 * [ARTIK Cloud](https://artik.cloud/)
+* [AT&T M2X](https://m2x.att.com/)
+* [Autodesk Fusion Connect](https://autodeskfusionconnect.com/)
 * [Ayla IoT Platform](https://www.aylanetworks.com/)
 * [Bosch IoT Suite](https://www.bosch-iot-suite.com/)
 * [Carriots](https://www.carriots.com/)
@@ -32,6 +34,8 @@ Here is a random list of different Internet of Things (IoT) Platforms and relate
 * [Salesforce IoT Cloud](http://www.salesforce.com/de/iot-cloud/)
 * [SensorCloud](http://www.sensorcloud.com/)
 * [Sixgill](https://www.sixgill.com/)
+* [Skkynet](https://skkynet.com/)
+* [Telenor](https://www.telenorconnexion.com/)
 * [Telit IoT Portal](http://www.telit.com/deviceWISE-IoT-platform/)
 * [tempoIQ](https://www.tempoiq.com/)
 * [thinger.io](https://thinger.io/)
