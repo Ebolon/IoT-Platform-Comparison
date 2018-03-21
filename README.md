@@ -33,6 +33,7 @@ Here is a random list of different Internet of Things (IoT) Platforms and relate
 * [GE Predix](https://www.ge.com/digital/predix)
 * [Salesforce IoT Cloud](http://www.salesforce.com/de/iot-cloud/)
 * [SensorCloud](http://www.sensorcloud.com/)
+* [Siemens Mindsphere](https://siemens.mindsphere.io/)
 * [Sixgill](https://www.sixgill.com/)
 * [Skkynet](https://skkynet.com/)
 * [Telenor](https://www.telenorconnexion.com/)
