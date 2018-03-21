@@ -48,6 +48,12 @@ Here is a random list of different Internet of Things (IoT) Platforms and relate
 * [Xively IoT Platform](https://www.xively.com/)
 * [Zatar](http://www.zatar.com/)
 
+## IoT Hubs
+* [AWS IoT](https://aws.amazon.com/en/iot/)
+* [Azure IoT Suite](https://azure.microsoft.com/en-us/suites/iot-suite/)
+* [Google Cloud IoT](https://cloud.google.com/solutions/iot/?hl=en)
+* [IBM Watson IoT](https://www.ibm.com/cloud/internet-of-things)
+
 ## Other
 * [Savi](http://www.savi.com/)
 * [Objectivity](http://www.objectivity.com/)
