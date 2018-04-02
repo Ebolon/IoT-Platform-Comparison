@@ -24,6 +24,7 @@ Here is a random list of different Internet of Things (IoT) Platforms and relate
 * [Cumulocity](https://www.cumulocity.com/)
 * [Evrythng](https://evrythng.com/)
 * [GE Predix](https://www.ge.com/digital/predix)
+* [Greenwave Systems - Axon IoT](https://greenwavesystems.com/product/axon-iot/)
 * [GroveStreams](https://grovestreams.com/)
 * [helium](https://www.helium.com/)
 * [impCloud](https://electricimp.com/platform/cloud/)
