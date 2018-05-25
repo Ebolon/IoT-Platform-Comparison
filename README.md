@@ -58,11 +58,10 @@ Here is a random list of different Internet of Things (IoT) Platforms and relate
 
 ## Comparison Websites
 * [IoT ONE](https://www.iotone.com/)
-* [Postscapes - IoT Cloud Platform Landscape](https://www.postscapes.com/internet-of-things-platforms/)
+* [Postscapes - IoT Cloud Platform Landscape](https://www.postscapes.com/internet-of-things-platforms/)
 
 ## Other
 * [Savi](http://www.savi.com/)
 * [Objectivity](http://www.objectivity.com/)
 * [Temboo](https://temboo.com/)
 * [Wyliodrin](https://www.wyliodrin.com/)
-
