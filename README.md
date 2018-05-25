@@ -56,8 +56,13 @@ Here is a random list of different Internet of Things (IoT) Platforms and relate
 * [Google Cloud IoT](https://cloud.google.com/solutions/iot/?hl=en)
 * [IBM Watson IoT](https://www.ibm.com/cloud/internet-of-things)
 
+## Comparison Websites
+* [IoT ONE](https://www.iotone.com/)
+* [Postscapes - IoT Cloud Platform Landscape](https://www.postscapes.com/internet-of-things-platforms/)
+
 ## Other
 * [Savi](http://www.savi.com/)
 * [Objectivity](http://www.objectivity.com/)
 * [Temboo](https://temboo.com/)
 * [Wyliodrin](https://www.wyliodrin.com/)
+
