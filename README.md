@@ -32,6 +32,7 @@ Here is a random list of different Internet of Things (IoT) Platforms and relate
 * [myDevices (Cayenne)](http://mydevices.com/)
 * [relayr.](https://relayr.io)
 * [Particle](https://www.particle.io/)
+* [Pelion IoT Platform](https://www.arm.com/products/iot/pelion-iot-platform)
 * [Salesforce IoT Cloud](http://www.salesforce.com/de/iot-cloud/)
 * [SensorCloud](http://www.sensorcloud.com/)
 * [Siemens Mindsphere](https://siemens.mindsphere.io/)
